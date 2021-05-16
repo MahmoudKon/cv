@@ -1,4 +1,4 @@
-# This is a simple project using PHP, MSQL with MVC
+# This is a simple project using [ PHP, MSQL with MVC ]
 
 ### Description
 
@@ -16,6 +16,7 @@ And when you click on show, you will navigate to another page with the user’s 
 
 ### Was used
 * PHP
+* OOP
 * MYSQL
 * MVC
 * JQUERY
@@ -24,7 +25,3 @@ And when you click on show, you will navigate to another page with the user’s 
 * CSS3
 
 ###### The design of the CV page is designed by me, pure HTML, CSS
-
-#### The control panel is not of my design
-
-##### [DEMO](http://delte-learning.epizy.com/?C=N;O=A&i=1) - This link is a CV page design without any backend
